@@ -136,10 +136,6 @@ Authorization: Bearer <token>
 
 #Teacher API
 
-Nice — here’s a separate **Markdown file** for the Teacher API. You can name it something like `TEACHER_API_DOC.md` or append it to the main `README.md`.
-
----
-
 # 📘 Teacher Portal API Documentation
 
 This document outlines all available API endpoints for teacher users in the system.
