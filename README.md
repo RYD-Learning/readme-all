@@ -1,3 +1,15 @@
+#Installations Guide
+
+`chmod +x run-all.sh`
+
+Install jq if it’s not installed (used to read JSON):
+
+`sudo apt install jq`
+
+Run the script:
+
+`./run-all.sh`
+
 #Parent API
 
 ---
