@@ -10,7 +10,7 @@ Run the script:
 
 `./run-all.sh`
 
-# Auto Teacher Assignment – Admin Usage Guide
+# Auto Teacher Assignment AI – Admin Usage Guide (BackOffice)
 
 This section demonstrates how the **AI-based Auto Teacher Assignment System** works within the admin dashboard. The feature intelligently matches students to teachers based on predefined rules such as availability, specialization, class size, and other criteria.
 
