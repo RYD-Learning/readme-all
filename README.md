@@ -10,6 +10,39 @@ Run the script:
 
 `./run-all.sh`
 
+# Auto Teacher Assignment – Admin Usage Guide
+
+This section demonstrates how the **AI-based Auto Teacher Assignment System** works within the admin dashboard. The feature intelligently matches students to teachers based on predefined rules such as availability, specialization, class size, and other criteria.
+
+## 📸 Screenshot
+
+![Auto Assignment Screenshot](https://i.postimg.cc/KYvXnb4w/autoass.jpg)
+
+> Replace `<YOUR_IMAGE_LINK_HERE>` with the actual URL to your image.
+
+---
+
+## 🔧 How It Works
+
+1. **Admin Login**  
+   The admin logs into the dashboard and navigates to the **"Assignments"** or **"AI Tools"** section.
+
+2. **Trigger Assignment**  
+   By clicking the **"Auto Assign"** button, the AI engine begins analyzing available teachers and pending student allocations.
+
+3. **Matching Logic**  
+   The AI uses factors such as:
+   - Teacher subject expertise
+   - Student learning level or class
+   - Teacher availability or workload
+   - Any specific preferences or constraints
+
+4. **Review & Confirmation**  
+   Once the assignment is generated, the admin is presented with a **preview of matched students and teachers** (as shown in the image). The admin can:
+   - Approve all matches
+   - Edit specific pairings
+   - Re-run the AI for optimized results
+
 #Parent API
 
 ---
